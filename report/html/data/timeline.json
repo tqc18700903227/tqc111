@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-5GVIRKP",
+    "children" : [ {
+      "name" : "20580-MainThread",
+      "children" : [ {
+        "name" : "TestLogin.test_login02",
+        "uid" : "d826dc54bf67cc1",
+        "parentUid" : "1c8e6576016cfbba9adc9fd2c12afa7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552056934133,
+          "stop" : 1552056934134,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestLogin.test_login01",
+        "uid" : "ef436624e54ad123",
+        "parentUid" : "1c8e6576016cfbba9adc9fd2c12afa7a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552056934130,
+          "stop" : 1552056934133,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c8e6576016cfbba9adc9fd2c12afa7a"
+    } ],
+    "uid" : "b096a50d00dc38e59b544af96dc87a2f"
+  } ]
+}
